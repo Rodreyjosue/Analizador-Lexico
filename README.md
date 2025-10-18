@@ -56,7 +56,7 @@ ng serve
 # http://localhost:4200
 ```
 
-###📖 Guía Rápida de Uso
+### 📖 Guía Rápida de Uso
 1. 🎯 Análisis de Expresiones
 Ingresa una expresión algebraica en el campo de texto
 
@@ -74,7 +74,7 @@ Ejemplos válidos:
 y = mx + b
 ```
 
-###2. 🔍 Panel de Detalles
+### 2. 🔍 Panel de Detalles
 Tokens identificados: Lista con tipo y valor
 
 Validación: Estado de la expresión (válida/inválida)
@@ -83,7 +83,7 @@ Recorrido AFN: Secuencia de estados visitados
 
 Métricas: Estadísticas del procesamiento
 
-###3. 🤖 Visualización de Autómatas
+### 3. 🤖 Visualización de Autómatas
 AFN: Autómata original con transiciones ε
 
 AFD: Conversión determinista por subconjuntos
@@ -98,7 +98,7 @@ Interacción:
 
 ✅ Zoom: Navegación en modales grandes
 
-###4. 🛠️ Autómatas Predefinidos
+### 4. 🛠️ Autómatas Predefinidos
 Botón "Generar Autómata Regex"
 
 AFN de 18 estados para validación general
@@ -107,7 +107,7 @@ AFD de 16 estados por construcción de subconjuntos
 
 AFD Minimizado de 12 estados optimizado
 
-###5. 🔬 Recorrido Paso a Paso
+### 5. 🔬 Recorrido Paso a Paso
 Analiza una expresión válida
 
 Haz clic en la línea de recorrido AFN en el detalle
@@ -115,7 +115,7 @@ Haz clic en la línea de recorrido AFN en el detalle
 Explora cada transición con explicaciones detalladas
 
 
-###🔧 Tecnologías Utilizadas
+### 🔧 Tecnologías Utilizadas
 Frontend: Angular 17, TypeScript, Bootstrap 5
 
 Visualización: Graphviz, Viz.js
@@ -126,7 +126,7 @@ Iconos: Font Awesome 6
 
 Build Tools: Angular CLI
 
-###📚 Ejemplos de Expresiones
+### 📚 Ejemplos de Expresiones
 ✅ Expresiones Válidas
 
 ```bash
@@ -161,7 +161,7 @@ x y               // Variables consecutivas sin operador
 ```
 
 
-###👨‍💻 Autor
+### 👨‍💻 Autor
 Tu Byron Josue Rodriguez Reyes
 
 GitHub: @ByronRodrigeuz
