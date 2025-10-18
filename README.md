@@ -74,6 +74,9 @@ Ejemplos válidos:
 y = mx + b
 ```
 
+<img width="1164" height="839" alt="image" src="https://github.com/user-attachments/assets/6d6de82a-10e8-4261-a31e-44f3fe029e38" />
+
+
 ### 2. 🔍 Panel de Detalles
 Tokens identificados: Lista con tipo y valor
 
@@ -83,12 +86,18 @@ Recorrido AFN: Secuencia de estados visitados
 
 Métricas: Estadísticas del procesamiento
 
+<img width="1211" height="774" alt="image" src="https://github.com/user-attachments/assets/eef1a97f-ff23-48e6-ab0a-2f175e13720f" />
+
+
 ### 3. 🤖 Visualización de Autómatas
 AFN: Autómata original con transiciones ε
 
 AFD: Conversión determinista por subconjuntos
 
 AFD Minimizado: Versión optimizada
+
+<img width="598" height="658" alt="image" src="https://github.com/user-attachments/assets/71c092c9-7102-4cd6-abe6-f336ec9d0ca1" />
+
 
 Interacción:
 
@@ -157,7 +166,6 @@ y = mx + b
 2x + + 3          // Operador duplicado
 3 * * x           // Operador duplicado
 x y               // Variables consecutivas sin operador
-2(3+4)            // Número seguido de paréntesis sin operador
 ```
 
 
