@@ -54,8 +54,9 @@ ng serve
 
 # Abrir en el navegador
 # http://localhost:4200
+exit
 
-📖 Guía Rápida de Uso
+###📖 Guía Rápida de Uso
 1. 🎯 Análisis de Expresiones
 Ingresa una expresión algebraica en el campo de texto
 
