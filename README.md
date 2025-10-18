@@ -39,7 +39,7 @@ Una aplicación web moderna desarrollada en Angular para el análisis léxico de
 - npm 9+
 
 ### Instalación
-```bash
+```
 # Clonar el repositorio
 git clone https://github.com/tu-usuario/analizador-lexico-automatas.git
 
@@ -54,7 +54,7 @@ ng serve
 
 # Abrir en el navegador
 # http://localhost:4200
-exit
+```
 
 ###📖 Guía Rápida de Uso
 1. 🎯 Análisis de Expresiones
@@ -72,6 +72,7 @@ Ejemplos válidos:
 (a+b)^2
 3.14 * r^2
 y = mx + b
+```
 
 2. 🔍 Panel de Detalles
 Tokens identificados: Lista con tipo y valor
@@ -147,6 +148,7 @@ x - 5
 3 * y
 a / b
 
+
 // Expresiones con variables
 2x + 3y
 a^2 + b^2
@@ -160,6 +162,7 @@ y = mx + b
 // Expresiones complejas
 2*(x+3) - 4/(y-1)
 3x^2 - 2x + 5 = 0
+```
 
 ❌ Expresiones No Válidas
 ```bash
@@ -167,9 +170,12 @@ y = mx + b
 3 * * x           // Operador duplicado
 x y               // Variables consecutivas sin operador
 2(3+4)            // Número seguido de paréntesis sin operador
+```
 🎨 Personalización
 
 👨‍💻 Autor
 Tu Byron Josue Rodriguez Reyes
 
 GitHub: @ByronRodrigeuz
+
+
